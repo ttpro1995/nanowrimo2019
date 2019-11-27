@@ -97,7 +97,7 @@ Outcome:
  + Fail: The infected become feral vampire, act on instinct, hunt like predator, but prefer to prey on human and their living stock. Normally, they are lone wolf and don't form a pack. From now on, the infected cannot conquest the beast within and become human-vampire on their own. It required a/a group of helper. The longer the infected in this state, the difficulty the process become, until it is impossible (the infected have completely forgot all of their human memory). A group of trained knight can dispatch a feral vampire.
 
 
-Difficulty: Most common folk will fail without assist, support from others. However, with helper, the most infected sucessfully conquest the beast within,  provided that the infected does not kill all the helper during the process or run away.
+Difficulty to conquest The beast within: Most common folk will fail without assist, support from others. However, with helper, the most infected sucessfully conquest the beast within,  provided that the infected does not kill all the helper during the process or run away.
 
 
 
