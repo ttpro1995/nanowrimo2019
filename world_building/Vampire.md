@@ -72,7 +72,37 @@ Purpose:
 
 ### The beast within
 
-This happen after the infected passed "Mortality check" and gained vampirist power. The infected feels the urging to make a kill (prefer human, then mammal) and suck blood from victim. Giving blood to the victim does not satisfy the thrist, and victim unlikely to take given blood when they are in unconscious, beast-like status.
+ This happen after the infected passed "Mortality check" and gained vampirist power. 
+ 
+
+ Worldbuilder note: The beast within is another check to prevent vampire population from spreading and overthrow human.
+ 
+ Overview : The infected feels the urging sucking blood from living mammal, prefer human > living stock (cow, sheep, pig) > pest (rat,...). Most likely the victim will die or become infected themself (human only).
+
+Symtom: 
++ The infected will thrist to drink blood from living mammal. 
++ Some said this is the thrist to hunt. 
++ Giving blood to the victim does not satisfy the thrist, and victim unlikely to take given blood when they are in unconscious, beast-like status. However, infected who are still conscious will trying to drink given blood, because human reasoning tell them blood might satisfy their thrist (in fact, it does not).
+
+The only cure: The infect fight the beast within with his/her own willpower and discipline. The main point is that the infect her/him self must fight. But he/she does not have to do it alone. Others might provide spiritual support. 
+
+How to help the infected: The "helper" (people who help) 
++ Anyone can help, but prefer another vampire > family menber, best friend, brothers in arm > people with experience in psychology and vampirist study > anyone.
++ Requirement: 
+   - Helper must make emotional connection with the infected. Therefore, it prefer to be someone well-known to the infected, or helper have experience in psychology. It is also prefer a vampire as helper because the vampire has gone through the beast within of their own. 
+   - Helper must be able to defend him/her/themselves when the infected temporary lost conscious and attack on instinct. The infected will not attack another vampire on instinct. Therefore, it is prefer a vampire. 
+
+Outcome: 
+ + Success: The infected become human-vampire, who have vampirist power but restrain full of their humanity. The human-vampire never face the beast within again.
+ + Fail: The infected become feral vampire, act on instinct, hunt like predator, but prefer to prey on human and their living stock. Normally, they are lone wolf and don't form a pack. From now on, the infected cannot conquest the beast within and become human-vampire on their own. It required a/a group of helper. The longer the infected in this state, the difficulty the process become, until it is impossible (the infected have completely forgot all of their human memory). A group of trained knight can dispatch a feral vampire.
+
+
+Difficulty: Most common folk will fail without assist, support from others. However, with helper, the most infected sucessfully conquest the beast within,  provided that the infected does not kill all the helper during the process or run away.
+
+
+
+
+
 
 
 
